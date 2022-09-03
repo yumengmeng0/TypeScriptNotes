@@ -1,0 +1,2 @@
+# TypeScriptNotes
+TypeScript Notes
